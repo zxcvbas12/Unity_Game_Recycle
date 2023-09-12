@@ -28,5 +28,5 @@
 
 ## Development Environment
 
-- Unity 3D Engine
+- Unity 2D Engine
 - C# Programming Language
